@@ -128,7 +128,5 @@ This Banking Management System is currently console-based, but there are several
 
 ---
 
-## ⭐ Final Thoughts
 
-This project reflects foundational skills in **Java programming**, **Oracle database design**, and **JDBC integration**—perfect for showcasing **real-world database interaction skills** in interviews and placements.
 
